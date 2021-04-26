@@ -1,4 +1,4 @@
-package com.loop;
+package com.kajal.loops;
 
 //n this challenge, you will store all the values computed from a multiplication in the string answer. You can use the valueOf() method of string to convert int value into a string
 //Inputint num = 5

@@ -1,4 +1,4 @@
-package com.loop;
+package com.kajal.loops;
 
 //Write code that draws half a pyramid using the # character.
 

@@ -1,4 +1,4 @@
-package com.loop;
+package com.kajal.loops;
 
 //In this exercise, you have to calculate the first ‘n’ fibonacci numbers. The fibonacci series is:
 
